@@ -1,1 +1,6 @@
-
+checkpoints/
+venv/
+*.jpg
+datasets/dfire
+datasets/grumpifycat
+results
