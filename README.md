@@ -21,3 +21,4 @@ mkdir checkpoints checkpoints/dfire
 mv latest_net_G.pth checkpoints/dfire
 python test.py --dataroot ./datasets/dfire_test --name dfire --CUT_mode CUT --phase train --num_test 1000
 ```
+See ./results/dfire/ for the output images
